@@ -1,0 +1,47 @@
+body {
+  font-family: Poppins;
+  background-color: antiquewhite;
+}
+
+li {
+  list-style: none;
+}
+
+ul {
+  margin: 0 0 40px;
+  padding: 0;
+}
+
+h1 {
+  color: #616161;
+  font-size: 34px;
+  font-weight: 500;
+  line-height: 38px;
+}
+
+h2 {
+  color: #616161;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 78px;
+}
+
+.temperature {
+  color: #616161;
+  font-size: 74px;
+  font-weight: 600;
+  line-height: 78px;
+}
+
+.weather-app {
+  border: 1px solid #616161;
+  border-radius: 12px;
+  padding: 50px;
+  margin: 20px auto;
+  max-width: 800px;
+  background-color: white;
+}
+
+.search-form {
+  margin-bottom: 30px;
+}
